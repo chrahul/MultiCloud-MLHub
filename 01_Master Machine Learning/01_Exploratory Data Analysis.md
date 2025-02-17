@@ -95,4 +95,5 @@ With these concepts in mind, you are ready to explore hands-on machine learning 
 1. **Kevin Murphy** – *Machine Learning: A Probabilistic Perspective*, MIT Press, 2012.  
 2. **Shai Shalev-Shwartz and Shai Ben-David** – *Understanding Machine Learning: From Theory to Algorithms*, Cambridge University Press, 2014.  
 3. **Ethem Alpaydin** – *Introduction to Machine Learning (3rd Edition)*, MIT Press, 2014.
- 4: https://www.ibm.com/think/topics/exploratory-data-analysis
+
+4: https://www.ibm.com/think/topics/exploratory-data-analysis
